@@ -1,0 +1,125 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+}
+@media (min-width: 1200px) and (max-width: 1300px) {
+   
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    #header_menu .header_link_area ul li a {
+        font-size: 12px;
+        padding: 17px 13px;
+    }
+    #header_menu .role_information h3 {
+        font-size: 15px;
+    }
+    #header_top .header_top_area p {
+        font-size: 13px;
+    }
+    .app_comon_bredcome ul li a {
+        font-size: 13px;
+    }
+    .app_comon_bredcome ul li {
+        margin-right: 3px;
+    }
+
+
+}
+
+
+@media (max-width: 767px) {
+}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    #header_menu .header_link_area ul li a {
+        font-size: 12px;
+        padding: 17px 13px;
+    }
+    #header_menu .role_information h3 {
+        font-size: 15px;
+        text-align: center;
+        margin-top: 14px;
+    }
+    #header_top .header_top_area p {
+        font-size: 13px;
+    }
+    .app_comon_bredcome ul li a {
+        font-size: 13px;
+    }
+    .app_comon_bredcome ul li {
+        margin-right: 3px;
+    }
+    .header_link_area {
+        text-align: center !important;
+    }
+
+
+
+
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    #header_menu .header_link_area ul li a {
+        font-size: 12px;
+        padding: 17px 13px;
+    }
+    #header_menu .role_information h3 {
+        font-size: 15px;
+    }
+    #header_top .header_top_area p {
+        font-size: 13px;
+    }
+    .app_comon_bredcome ul li a {
+        font-size: 13px;
+    }
+    .app_comon_bredcome ul li {
+        margin-right: 3px;
+    }
+    .header_link_area {
+        text-align: center !important;
+        display: none;
+    }
+    #header_menu{
+        padding: 15px 0px;
+    }
+    .mobile_sidebar_menu_thumb{
+        display: block;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
